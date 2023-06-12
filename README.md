@@ -1,11 +1,11 @@
 # Arts Cando
 ## HTML Files
 
-Arts Cando html pages in /src/html folder.
+Arts Cando html pages in `/src/html` folder.
 
 ## SCSS Style
 
-Arts Cando style in src/scss/artscando/artscando.scss and override bootstrap variable in src/scss/_user.scss.
+Arts Cando style in `src/scss/artscando/artscando.scss` and override bootstrap variable in `src/scss/_user.scss`.
 
 ## Installation
 
