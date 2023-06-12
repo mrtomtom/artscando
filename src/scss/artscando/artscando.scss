@@ -1,0 +1,29 @@
+// overide style
+.nav {
+  .nav-link {
+    color: $gray-600;
+    font-weight: 500;
+    &:after {
+      content: "";
+      display: block;
+      width: 0;
+      height: 1px;
+      background-color: $primary;
+      transition: all ease-in-out 400ms;
+    }
+    &:hover {
+      &:after {
+        width: 150px;
+      }
+    }
+    &.active {
+      &:after {
+        width: 150px;
+      }
+    }
+  }
+}
+
+.sticky-left-nav {
+  top: 80px !important;
+}
