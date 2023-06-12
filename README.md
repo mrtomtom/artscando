@@ -1,13 +1,11 @@
-# Cube
+# Arts Cando
+## HTML Files
 
-Template by WeBuildThemes
+Arts Cando html pages in /src/html folder.
 
-## Template Files
+## SCSS Style
 
-You can use CUBE as is out of the box. All ready to use files are in the /dist/ folder.
-
-The webflow workflow can be bypassed all together if you prefer to simply edit the static HTML and CSS files.
-But if you are experienced developer and want to speed up development process follow steps bellow.
+Arts Cando style in src/scss/artscando/artscando.scss and override bootstrap variable in src/scss/_user.scss.
 
 ## Installation
 
