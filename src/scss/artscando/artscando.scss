@@ -24,6 +24,8 @@
   }
 }
 
-.sticky-left-nav {
-  top: 80px !important;
+.headroom--not-top {
+  .sticky-top.sticky-left-nav {
+    top: 60px !important;
+  }
 }
