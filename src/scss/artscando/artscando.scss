@@ -24,6 +24,16 @@
   }
 }
 
+header {
+  .navbar {
+    .navbar-brand {
+      img {
+        max-height: 1.3rem;
+      }
+    }
+  }
+}
+
 .headroom--not-top {
   .sticky-top.sticky-left-nav {
     top: 60px !important;

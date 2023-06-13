@@ -6,7 +6,7 @@
 ## SCSS Style
 
 - Custom style in `src/scss/artscando/artscando.scss`  
-- Override theme variable in `src/scss/_user.scss`.
+- Override theme variable in `src/scss/artscando/_variables.scss`.
 
 ## Setup instructions
 

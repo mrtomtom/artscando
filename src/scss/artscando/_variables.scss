@@ -1,0 +1,15 @@
+//
+// your custom scss goes here
+//
+
+
+// override variable
+$primary: #000;
+$secondary: #000;
+
+// scss-docs-start theme-colors-map
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+);
+// scss-docs-end theme-colors-map
